@@ -1,5 +1,5 @@
 import random
-# this is a simple tic-tac-toe game 
+# this is a simple tic-tac-toe game asd
 # ----------------- GLOBAL VARIABLES ----------------- 
 
 # liste that is the map of tic-tac-toe
@@ -84,6 +84,7 @@ def winCheck(liste):
 
 def game():
     print("""Player is "X".""")
+    print(maps(liste))
     while(winCheck(liste) == False):
         playerMove(liste)
         print("-------------------------------")
