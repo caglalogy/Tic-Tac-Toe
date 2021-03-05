@@ -84,6 +84,7 @@ def winCheck(liste):
 
 def game():
     print("""Player is "X".""")
+    print(maps(liste))
     while(winCheck(liste) == False):
         playerMove(liste)
         print("-------------------------------")
