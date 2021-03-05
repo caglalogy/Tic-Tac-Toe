@@ -1,5 +1,5 @@
 import random
-# this is a simple tic-tac-toe game 
+# this is a simple tic-tac-toe game asd
 # ----------------- GLOBAL VARIABLES ----------------- 
 
 # liste that is the map of tic-tac-toe
